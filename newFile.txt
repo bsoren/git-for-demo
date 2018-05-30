@@ -1,2 +1,2 @@
 some text
-adding line 2
+develop branch changes: added line 2
